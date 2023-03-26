@@ -6,7 +6,7 @@ function checkNumber() {
         show.innerHTML = 'The number is' +`${filed.value}`+ 'even number'
     }
     else {
-        show.innerHTML = 'The number is' +`${filed.value}`+ 'odd number'
+        show.innerHTML = 'The number is' + `${filed.value} `+ 'odd number'
     }
 }
 
