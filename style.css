@@ -35,6 +35,10 @@
     width: 350px;
     text-align: start;
 }
+.title {
+    color: white;
+    
+}
 h3{
     font-size: 30px;
     color: antiquewhite;
